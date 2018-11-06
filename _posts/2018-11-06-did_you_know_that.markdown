@@ -1,24 +1,25 @@
 ---
 layout: post
-title:      "Did you know that..."
+title:      "I fell in love with Sinatra twice "
 date:       2018-11-06 06:50:16 -0500
 permalink:  did_you_know_that
 ---
 
-
-I am a big fan of random fun facts. As I work through the bootcamp's curriculum, my mind constantly wanders off to trying to figure out the why behind some things. Here are a few of the things I've learned: 
-
-1. Sinatra - the Ruby web framework is named after the famous artist Frank Sinatra - hence, the hat logo. And used by major tech companies like Apple, Github, LinkedIn, in addition to lots more.
+Once with (Frank) Sinatra and the second with the Ruby web framework, Sinatra :) 
 
 [One of my F. Sinatra favorites](https://youtu.be/EUrUfJW1JGk)
 
-2. Java Script vs. Java - the only similarity these have is the name. Rumor has it that the JS developers stole the first four letters for marketing purposes, others argue that didn't happen. Whatever the story really is, make sure you understand the clear differences between these two:
-* Java is an OOP programming language while Java Script is an OOP scripting language.
-* Java creates applications that run in a virtual machine or browser while JavaScript code is run on a browser only.
-* Java code needs to be compiled while JavaScript code are all in text.
-* They require different plug-ins.
+For those of you not yet familiar with the latter, Sinatra is a DSL written in Ruby used to create web applications - it is small and flexible. And here are more reasons as to why I love it: 
 
-3. Ruby - the name was chosen to suggest "a jewel of a language". And if by jewel they were aiming for "easy to read and write", I would have to agree with that. 
+1. Simplicity: you can create a fully functional web app using Sinatra in just one file. There are no complicated set up procedures, configuration, or generators to worry about: You can just open up a text editor and start hacking away. Routes are simple to implement and have a great syntax that uses all of the Http verbs GET,POST,PUT and DELETE; making it a cinch to create RESTful applications. Simplified, Sinatra lets you write simple yet elegant code that produces amazing results.
+
+2. Flexibility: Sinatra can be used to build anything from the smallest of microsites to a full-scale web application. It’s the perfect choice for API implementations, Middleware, widgets, Facebook apps as well as many others. I often use it to just try out new ideas or prototype a website quickly. Sinatra is built on top of Rack, making it easy to extend using Ruby Gems, Rack-Middleware and its own extension API. This opens up a world of possibilities for extending your application and avoids you having to reinvent the wheel.
+
+3. Unbiased: You don’t have to use the MVC paradigm and you’re not tied to any particular ORM (Active Record, Sequel, Mongoid etc), JavaScript framework (JQuery, MooTools,YUI etc) or Templating system (Haml, ERB , Slim etc). This puts you, the developer, back in the driving seat, giving you full control over how to best implement your application. 
+
+ $> gem install sinatra -- the start of a new love.  
+
+
 
 
 
