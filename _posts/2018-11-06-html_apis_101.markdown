@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "HTML API's 101 "
-date:       2018-11-06 10:18:55 +0000
+date:       2018-11-06 05:18:56 -0500
 permalink:  html_apis_101
 ---
 
@@ -9,7 +9,5 @@ permalink:  html_apis_101
 An API (or application programming interface) is “is a set of subroutine definitions, protocols, and tools for building application software.” In an HTML API, the definitions and protocols are in the HTML itself, and the tools look in HTML for the configuration. HTML APIs usually consist of certain class and attribute patterns that can be used on existing HTML. With Web Components, even custom element names are game, and with the Shadow DOM, those can even have an entire internal structure that is hidden from the rest of the page’s JavaScript or CSS. But this is not an article about Web Components; Web Components give more power and options to HTML API designers; but the principles of good (HTML) API design are the same.
 
 HTML APIs improve collaboration between designers and developers, lift some work from the shoulders of the latter, and enable designers to create much higher-fidelity mockups. Including an HTML API in your library does not just make the community more inclusive, it also ultimately comes back to benefit you, the programmer.
-
-![](https://images.techhive.com/images/article/2016/06/google-maps-android-100664872-large.jpg)
 
 API's are powering websites, mobile apps, badges, buttons, spreadsheets, new devices. API's are making companies and organizations more agile. Their simplicity, and efficiency are meant to make things more accessible, in simple but secure way, using the path of least resistance.
