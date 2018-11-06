@@ -6,7 +6,7 @@ permalink:  a_guide_to_web_design
 ---
 
 
-As I approach the end of the bootcamp, I cannot wait to start coding my own web apps. The following is a mix of items I would consider critical before starting to program my first ever web application. Wish me luck! 
+As I approach the end of the bootcamp, I cannot wait to start coding my own web apps. The following is a mix of things I would consider critical before starting to program my first ever web application. Wish me luck! 
 
 1. Create a menu structure: 
 
@@ -38,4 +38,6 @@ Also known as IA (information architecture) - creating a menu structure is all a
 6. Identify and create relevant forms: 
 * Most important is to create a logical communication between both parties 
 * Keep the form concise 
-* Group related field together 
+* Group related fields together 
+
+As mentioned above, the tips shared here are just a start. Mix and match these ideas with your own for best results. Treat your website as a continually evolving project, and use analytics and user feedback to constantly improve the experience. And remember that design isn’t just for designers — it’s for users.
