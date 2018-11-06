@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "A Guide to Web Design"
+title:      "A Guide to (my first ever) Web Design"
 date:       2018-11-06 08:26:59 -0500
 permalink:  a_guide_to_web_design
 ---
