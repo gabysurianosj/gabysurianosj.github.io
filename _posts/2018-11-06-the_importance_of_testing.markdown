@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "The importance of testing "
-date:       2018-11-06 11:18:56 +0000
+date:       2018-11-06 06:18:57 -0500
 permalink:  the_importance_of_testing
 ---
 
 
 When I first read/heard the word "testing" in the bootcamp, my stomach shrunk. Honestly, I was not sure what to expect of it but it definitely did not sound that appealing. As I progressed through the bootcamp, I noticed and started to value the importance of not only testing my code, but also writing tests. 
 
-![#feels](http://www.loredanaarion.ro/wp-content/uploads/2015/01/TesterDeveloper-r50.jpghttp://)
+![#feels](http://www.loredanaarion.ro/wp-content/uploads/2015/01/TesterDeveloper-r50.jpg)
 
 Below are reasons that have convinced me why its so important: 
 1. Enables to create more resilient applications - like the theory of falsification in science, testing motivates developers to think about ways to break their code. If all process fails, then the code can be considered valid. 
