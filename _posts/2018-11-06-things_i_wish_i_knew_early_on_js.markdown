@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Things I wish I knew early on (JS)"
-date:       2018-11-06 12:59:06 +0000
+date:       2018-11-06 07:59:09 -0500
 permalink:  things_i_wish_i_knew_early_on_js
 ---
 
