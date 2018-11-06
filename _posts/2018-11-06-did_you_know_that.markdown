@@ -9,7 +9,7 @@ Once with (Frank) Sinatra and the second with the Ruby web framework, Sinatra! <
 
 [One of my Frank Sinatra favorites](https://youtu.be/EUrUfJW1JGk)
 
-For those of you not yet familiar with the latter, Sinatra is a DSL written in Ruby used to create web applications and here are reasons as to why I love it: 
+For those of you not yet familiar with the latter, Sinatra is a DSL written in Ruby used to create web applications and here are reasons as to why to love it: 
 
 1. Simplicity: you can create a fully functional web app using Sinatra in just one file. There are no complicated set up procedures, configuration, or generators to worry about: You can just open up a text editor and start hacking away. Routes are simple to implement and have a great syntax that uses all of the http verbs (GET, POST, PUT and DELETE), making it easy to create RESTful applications. Simplified, Sinatra lets you write simple yet elegant code that produces amazing results.
 
