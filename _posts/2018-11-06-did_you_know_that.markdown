@@ -7,7 +7,7 @@ permalink:  did_you_know_that
 
 Once with (Frank) Sinatra and the second with the Ruby web framework, Sinatra :) 
 
-[One of my F. Sinatra favorites](https://youtu.be/EUrUfJW1JGk)
+[One of my Frank Sinatra favorites](https://youtu.be/EUrUfJW1JGk)
 
 For those of you not yet familiar with the latter, Sinatra is a DSL written in Ruby used to create web applications - it is small and flexible. And here are more reasons as to why I love it: 
 
