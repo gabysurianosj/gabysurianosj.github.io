@@ -10,6 +10,6 @@ In one simple sentence: An API is essentially an instruction manual for a piece 
 
 HTML APIs improve collaboration between designers and developers, lift some work from the shoulders of the latter, and enable designers to create much higher-fidelity mockups. Including an HTML API in your library does not just make the community more inclusive, it also ultimately comes back to benefit you, the programmer.
 
-![How it works]https://23kri02j3rke414ynf4dgx2i-wpengine.netdna-ssl.com/wp-content/uploads/2015/09/API-EN.png)
+![How it works](https://23kri02j3rke414ynf4dgx2i-wpengine.netdna-ssl.com/wp-content/uploads/2015/09/API-EN.png)
 
 API's are powering websites, mobile apps, badges, buttons, spreadsheets, new devices. API's are making companies and organizations more agile. Their simplicity, and efficiency are meant to make things more accessible, in simple but secure way, using the path of least resistance.
