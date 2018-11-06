@@ -9,7 +9,6 @@ permalink:  things_i_wish_i_knew_early_on_js
 Things you must know (I wish I knew from the very beginning) about JavaScript: 
 
 1. Shortcut notations for objects and arrays: 
-
 Do this: 
 ```
 var car = {
@@ -30,7 +29,6 @@ car.age = 4;
 ```
 
 2. Avoiding looping and conditions: 
-
 Do this:
 ```
 var numbers = [3,342,23,22,124];
