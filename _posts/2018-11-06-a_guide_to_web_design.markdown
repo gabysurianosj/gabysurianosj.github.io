@@ -12,9 +12,9 @@ As I approach the end of the bootcamp, I cannot wait to start coding my own web 
 
 ![](https://uxmastery.com/wp-content/uploads/2014/06/Card-sorting-e1403581139396.jpg)
 
-Also known as IA (information architecture) - creating a menu structure is all about the organization of information in a clear and logical way. The purpose is to help users to navigate a complex set of information. One way to do start doing this is by using the method 'card sorting', which is usually used by to test for whether it satisfies the user's mental model.  
+Also known as IA (information architecture) - creating a menu structure is all about the organization of information in a clear and logical way. The purpose is to help users to navigate a complex set of information. One way to do start doing this is by using the method 'card sorting', which is usually used by to test for whether it satisfies the user's mental model. 
 
-2. Define links and navigation options: 
+2. Define links and navigation options:
 * Navigation is the backbone of usability and for this reason is should follow these principles: simplicity, clarity, and consistency
 * Assign priority levels to navigation options (highest to common user tasks)
 * Clarity between internal and external links 
@@ -26,14 +26,14 @@ Also known as IA (information architecture) - creating a menu structure is all a
 * Avoid industry-specific terms, you never know who is visiting your website 
 * Being concise vs. being wordy. Always best to minimize long content sections
 
-4. Create mockups to clarify visual hierarchy: 
+4. Create mockups to clarify visual hierarchy:
 * A proper visual hierarchy makes it easy to scan the page 
 * Prioritize important elements on the page 
 
-5. Use of appropriate and quality media:
+5. Use of appropriate and quality media: 
 * Avoid generic photos of people 
 * Use high quality media with no distortion 
-* Set audio off by default for videos 
+* Set audio off by default for videos
 
 6. Identify and create relevant forms: 
 * Most important is to create a logical communication between both parties 
