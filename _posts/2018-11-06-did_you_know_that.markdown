@@ -17,7 +17,10 @@ For those of you not yet familiar with the latter, Sinatra is a DSL written in R
 
 3. Unbiased: You don’t have to use the MVC paradigm and you’re not tied to any particular ORM (Active Record, Sequel, Mongoid etc), JavaScript framework (JQuery, MooTools,YUI etc) or Templating system (Haml, ERB , Slim etc). This puts you, the developer, back in the driving seat, giving you full control over how to best implement your application. 
 
- $> gem install sinatra -- the start of a new love.  
+```
+ $> gem install sinatra
+``` 
+-- the start of a new love.  
 
 
 
