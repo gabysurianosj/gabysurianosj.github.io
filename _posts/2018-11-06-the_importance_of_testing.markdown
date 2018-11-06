@@ -18,6 +18,8 @@ Below are reasons that have convinced me why its so important:
 
 Bottom line: test, test, test. Testing is your friend, not your foe - trust me! 
 
+![](https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ce530ccf-7c62-405d-9c26-44ff76cef16e/18-a-comprehensive-guide-to-web-design-large-opt.png)
+
 
 
 
