@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "CLI Gem Portfolio Project: UNESCO World Heritage"
+title:      "CLI Gem portfolio project: UNESCO World Heritage"
 date:       2018-11-08 18:28:10 -0500
 permalink:  cli_gem_portfolio_project_unesco_world_heritage
 ---
